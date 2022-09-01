@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+
+# Project exclude paths
+/DOPrint/build/
+/DOPrint/build/intermediates/javac/debug/classes/
